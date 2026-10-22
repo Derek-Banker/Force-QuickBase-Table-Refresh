@@ -1,0 +1,15 @@
+{
+  "realm_url": "https://example.quickbase.com",
+  "state_file": ".state/browser.json",
+  "browser_channel": "chromium",
+  "navigation_timeout_seconds": 60,
+  "start_timeout_seconds": 60,
+  "refresh_timeout_seconds": 300,
+  "poll_interval_seconds": 5,
+  "tables": {
+    "target": {
+      "url": "https://example.quickbase.com/nav/app/APP_ID/table/TABLE_ID/action/td",
+      "replication_id": null
+    }
+  }
+}

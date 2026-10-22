@@ -179,3 +179,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Quickbase local configuration and artifacts
+.env.*
+!.env.example
+refresh_config.json
+.state/
+.venv/
+*.har
+*.zip
+work/
