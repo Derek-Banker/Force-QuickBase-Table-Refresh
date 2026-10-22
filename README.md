@@ -158,3 +158,11 @@ Use the same procedure after a client disconnect, browser error, or interrupted 
 A Quickbase job can continue after the tool stops. The tool does not click again automatically.
 
 The [error reference](docs/reference.md#errors-and-recovery) maps each controlled error to its meaning and next action.
+
+## DISCLAIMER
+
+This project was made primarily through the use of LLMs. As a result its code is open and available for all.
+
+## License
+
+The Unlicense. See [LICENSE](LICENSE).
